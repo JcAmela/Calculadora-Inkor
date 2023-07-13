@@ -4,8 +4,6 @@ __[Visita el Proyecto Aquí](https://jcamela.github.io/Mini_proyecto-calculadora
 
 ¡Bienvenidos a mi mini proyecto de una Calculadora! Este proyecto fue desarrollado con el objetivo de demostrar mis habilidades en HTML, CSS y JavaScript.
 
-![Imagen de la Calculadora](/ruta/a/la/imagen/de/la/calculadora)
-
 ## Características 🎉 
 
 - Interface limpia y amigable.
