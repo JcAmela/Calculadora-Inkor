@@ -1,13 +1,17 @@
 # Mini Proyecto: Calculadora 🧮 
 
+__[Visita el Proyecto Aquí](https://jcamela.github.io/Mini_proyecto-calculadora.github.io/)__
+
 ¡Bienvenidos a mi mini proyecto de una Calculadora! Este proyecto fue desarrollado con el objetivo de demostrar mis habilidades en HTML, CSS y JavaScript.
+
+![Imagen de la Calculadora](/ruta/a/la/imagen/de/la/calculadora)
 
 ## Características 🎉 
 
-- Interface limpia y amigable
-- Funcionalidad completa de una calculadora básica
-- Soporte para teclas numéricas y de operaciones
-- Diseño responsivo que se ve bien en todas las pantallas
+- Interface limpia y amigable.
+- Funcionalidad completa de una calculadora básica.
+- Soporte para entrada a través de botones en la pantalla y teclas numéricas y de operaciones en el teclado.
+- Diseño responsivo que se ve bien en todas las pantallas.
 
 ## Tecnologías Usadas 💻 
 
@@ -17,7 +21,7 @@
 
 ## Cómo Usar 💡 
 
-Visita el [enlace del proyecto](https://jcamela.github.io/Mini_proyecto-calculadora.github.io/) para probar la calculadora. Puedes usar los botones en la pantalla o las teclas de tu teclado para realizar las operaciones.
+Visita el [enlace del proyecto](https://jcamela.github.io/Mini_proyecto-calculadora.github.io/) para probar la calculadora. Puedes usar los botones en la pantalla o las teclas numéricas y de operaciones en tu teclado para realizar cálculos.
 
 ## Contáctame 📞 
 
